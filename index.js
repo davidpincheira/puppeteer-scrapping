@@ -1,6 +1,6 @@
 const puppeteer = require('puppeteer')
 
-const URL = process.env.URL || 'https://keen-davinci-854e86.netlify.app/'
+const URL = process.env.URL || '<your-url>'
 
 let scrape = async () => {
     const browser = await puppeteer.launch({headless: true})
