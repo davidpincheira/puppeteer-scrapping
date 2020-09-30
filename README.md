@@ -1,3 +1,3 @@
 # puppeteer-scrapping
 
-Optimizar codigo css en la web con puppetter
+Optimizar carga de css en la web con puppetter
